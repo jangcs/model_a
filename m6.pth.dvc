@@ -1,0 +1,4 @@
+outs:
+- md5: dbce795b50d479445ec4100e37e79e17
+  size: 40372436
+  path: m6.pth

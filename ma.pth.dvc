@@ -1,0 +1,4 @@
+outs:
+- md5: d1ed54b7643fddbae0c58a247dd23197
+  size: 702
+  path: ma.pth

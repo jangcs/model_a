@@ -1,0 +1,4 @@
+outs:
+- md5: 446b6add2cc224494e8f9a646fb06acc
+  size: 775
+  path: mb.pth

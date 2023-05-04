@@ -1,0 +1,4 @@
+outs:
+- md5: 6185a67d99dffbd18fb186597755cb03
+  size: 848
+  path: mc.pth
